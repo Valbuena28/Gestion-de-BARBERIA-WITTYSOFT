@@ -1,4 +1,4 @@
-# 🗺️ Plan de Desarrollo y Definición del Problema
+# Plan de Desarrollo y Definición del Problema
 
 ### 1. La Problemática
 Las barberías suelen sufrir de:
