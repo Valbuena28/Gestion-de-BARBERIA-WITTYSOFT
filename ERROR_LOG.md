@@ -1,4 +1,4 @@
-# ⚠️ Registro de Errores y "Piedras en el Camino"
+# Registro de Errores y "Piedras en el Camino"
 
 ### Tópico: Gestión de Horarios (Timezones)
 * **Error:** Usar el objeto `Date` nativo de JS sin considerar el desfase de la zona horaria del servidor vs el cliente.
