@@ -1,4 +1,4 @@
-# 🛠️ Stack Tecnológico
+# Stack Tecnológico
 
 ### Frontend (User Experience)
 * **Next.js 15 (App Router):** Para renderizado híbrido y optimización de rutas.
